@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.exe
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.deps.json
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.dll
+C:\Users\kelly\Documents\atividadespc1\gritador\bin\Debug\netcoreapp3.1\gritador.pdb
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.dll
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.pdb
+C:\Users\kelly\Documents\atividadespc1\gritador\obj\Debug\netcoreapp3.1\gritador.genruntimeconfig.cache
